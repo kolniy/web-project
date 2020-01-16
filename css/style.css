@@ -20,6 +20,13 @@ body {
   padding: 30px;
 }
 
+#img-div img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 #tribute-info {
   padding-top: 20px;
 }
